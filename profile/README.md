@@ -1,4 +1,4 @@
-![Logo](surfwelle.png)
+![Logo](logo.png)
 
 
 
