@@ -1,6 +1,1 @@
-![Logo](https://github.com/Surfwelleaugsburg/.github/blob/main/profile/logo.png)
-
-
-
-
-Willkommen bei der [Surfwelle Augsburg](https://surfwelleaugsburg.de/)!
+[<img src="https://github.com/Surfwelleaugsburg/.github/blob/main/profile/logo.png">](https://surfwelleaugsburg.de/)
