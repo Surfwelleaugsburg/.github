@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](https://github.com/Surfwelleaugsburg/.github/blob/main/profile/logo.png)
 
 
 
